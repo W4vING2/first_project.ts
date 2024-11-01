@@ -1,4 +1,4 @@
-function func(a, b, c){
+function func(a: number, b: number, c: number){
     if (a == 0){
         return 'ошибка'
     }
