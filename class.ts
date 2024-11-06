@@ -35,6 +35,9 @@ class Library{
         }
     }
 }
+let myLibrary = new Library(MyBooks)
+myLibrary.listBooks()
+
 
 
 
